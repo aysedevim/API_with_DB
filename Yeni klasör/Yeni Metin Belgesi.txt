@@ -1,0 +1,1 @@
+CORS hatası için programda kullandığımız ıp ye izin verdik. 
